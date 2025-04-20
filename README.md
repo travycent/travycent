@@ -22,7 +22,7 @@
 ---
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend fullstack applications.
+- :telescope: I’m working as a Software Engineer and helping medium to , large-scale businesses develop and achieve their digital strategy through the development of work plans and leading their internal technical teams.
 
 - :seedling: Exploring Technical Content Writing.
 
